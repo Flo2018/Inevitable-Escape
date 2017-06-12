@@ -1,0 +1,23 @@
+body {background-image: url("typewriter2.jpg");
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-color: #cccccc;
+
+}
+
+h1 {
+  font-family:'Special Elite', fantasy;
+  text-align: center;
+  color: white;
+}
+
+
+header, footer {
+    padding: 10em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
