@@ -5,43 +5,35 @@ h1 {
   text-align: center;
   color: black;
 }
-h2{
-  text-align:center;
+h2 {
+  font-family: 'Rock Salt', cursive;
 }
 header, footer {
     padding: 3em;
-    color:#cc0066;
     font-style: bold;
-    background-image: url("books.jpg");
+    color: #ff66b3;
+    background-image: url("zebra.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     clear: left;
     text-align: left;
     font-size:300%;
-    font-family: 'Special Elite', fantasy;
+    font-family: 'Permanent Marker', fantasy;
 }
+
 nav {
     float: left;
-    max-width: 300px;
+    max-width: 360px;
     margin: 0;
     padding: 1em;
 }
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul a {
-    text-decoration: none;
-}
-
 article {
     margin-left: 170px;
-    border-left: 2px solid gray;
+    border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
+    font-family:'Merienda', cursive;
 }
 
 
@@ -67,4 +59,7 @@ li a {
 
 li a:hover {
     background-color: #111;
+}
+div{
+    padding: 50px 30px 50px 80px;
 }

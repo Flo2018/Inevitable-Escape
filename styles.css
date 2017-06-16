@@ -23,6 +23,13 @@ header, footer {
     font-size:100%;
     font-family: 'Special Elite', fantasy;
 }
+nav {
+    float: left;
+    max-width: 360px;
+    margin: 0;
+    padding: 1em;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
